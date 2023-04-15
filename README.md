@@ -14,7 +14,7 @@ We note that our code was tested under Python 3.6.10.
 To run *EJ-GAN* on CREDIT dataset, execute the following command from the project home directory:<br/>
 
 
-    usage: usage: main_GAN_Classification.py [-h] --input INPUT
+    usage: main_GAN_Classification.py [-h] --input INPUT
                                   [--export_plot EXPORT_PLOT] [--prior PRIOR]
                                   [--weight WEIGHT] [--num-steps NUM_STEPS]
                                   [--hidden-size HIDDEN_SIZE]
