@@ -2,7 +2,7 @@
 
 
 
-This repository provides a reference implementation of *node2vec* as described in the paper:<br>
+This repository provides a reference implementation of *EJ-GAN* as described in the paper:<br>
 > Incorporating Experts' Judgment into Machine Learning Models<br>
 > Hogun Park, Aly Megahed, Peifeng Yin, Yuya Ong, Pravar Mahajan, Pei Guo <br>
 > Expert Systems with Applications, Elsevier, 2023.<br>
